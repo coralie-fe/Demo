@@ -1,0 +1,20 @@
+.site-branding__name a{
+	color: #000;
+    font-size: 1.5em;
+}
+#header {
+    background-color: #fff;
+    background-image: linear-gradient(to bottom, #ff1256 0%, #fff 100%);
+}
+.sidebar .block {
+ text-transform: uppercase;
+ background: none;
+}
+.sidebar h2 {
+	color:orange;
+}
+.node--view-mode-teaser h2 a {
+    color: orange;
+    font-family: georgia;
+    font-size: 2rem;
+}
