@@ -1,0 +1,9 @@
+permission session block:
+  title: 'permission session block'
+  description: 'permission access block session'
+  restrict access: 'true'
+
+administer hello:
+  title: 'administer hello'
+  description: 'permission access gestion couleur des blocs'
+  restrict access: 'true'

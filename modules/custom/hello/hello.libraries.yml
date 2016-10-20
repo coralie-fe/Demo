@@ -1,0 +1,12 @@
+base:
+  version: VERSION
+  css:
+    theme:
+      hello.css: {}
+
+maintenance_page:
+  version: VERSION
+  css:
+    theme:
+      css/maintenance-page.css: {}
+

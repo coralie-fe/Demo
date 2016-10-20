@@ -1,0 +1,34 @@
+annonce.settings_tab:
+  route_name: annonce.settings
+  title: 'Settings'
+  base_route: annonce.settings
+
+entity.annonce.canonical:
+  route_name: entity.annonce.canonical
+  base_route: entity.annonce.canonical
+  title: 'View'
+
+entity.annonce.edit_form:
+  route_name: entity.annonce.edit_form
+  base_route: entity.annonce.canonical
+  title: 'Edit'
+
+entity.annonce.delete_form:
+  route_name:  entity.annonce.delete_form
+  base_route:  entity.annonce.canonical
+  title: 'Delete'
+
+entity.annonce.collection:
+  route_name:  entity.annonce.collection
+  base_route:  system.admin_content
+  title: 'Listing'
+
+entity.annonce.add_form:
+  route_name:  entity.annonce.add_form
+  base_route:  system.admin_content
+  title: 'Add annonce'
+
+entity.annonce.viewhistory:
+  route_name:  view.historique_annonces.page_1
+  base_route:  annonce.settings
+  title: 'history annonce'

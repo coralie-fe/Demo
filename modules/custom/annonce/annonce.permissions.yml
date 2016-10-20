@@ -1,0 +1,20 @@
+view Annonce entity:
+  title: 'view annonce'
+  description: 'permission view annonce'
+  restrict access: 'true'
+
+administer entity Annonce:
+  title: 'annonce settings'
+  description: 'permission entity structure annonce'
+  restrict access: 'true'
+
+edit Annonce entity:
+  title: 'edit annonce'
+  description: 'permission edit annonce'
+  restrict access: 'true'
+
+delete Annonce entity:
+  title: 'delet annonce'
+  description: 'permission delet annonce'
+  restrict access: 'true'
+
